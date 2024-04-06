@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/Luoksi/oapi
+  GHCR_REPO: ghcr.io/luoksi/oapi
 
 jobs:
   main:
